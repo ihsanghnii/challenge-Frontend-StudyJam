@@ -1,0 +1,58 @@
+body {
+    background-color: #FFD700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 330px;
+    border: 8px solid black;
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+    border-radius: 10px;
+    padding: 18px;
+}
+
+.label {
+    background-color: #FFD700;
+    display: inline;
+    inline-size: 80px;
+    border-radius: 6px;
+    text-align: center;
+    margin: 25px 0;
+
+}
+
+.text {
+    display: block;
+    margin: 6px 10px;
+}
+
+.published {
+    margin: 1px 0;
+}
+
+.judul-card {
+    margin: 15px 0;
+}
+
+.isi-card {
+    margin: 3px 0;
+}
+
+.profil {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.foto-profil {
+    padding-right: 10px;
+    width: 30px;
+}

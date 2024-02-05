@@ -1,0 +1,10 @@
+- wrapper
+    - gambar
+    - label
+        - text
+    - published
+    - judul card
+    - isi card
+    - profil
+        - foto profil
+        - nama profil
